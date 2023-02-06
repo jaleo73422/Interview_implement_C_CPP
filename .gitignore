@@ -1,3 +1,9 @@
+*.txt
+test.c
+test_2.c
+test_3.c
+test.cpp
+
 # Prerequisites
 *.d
 
